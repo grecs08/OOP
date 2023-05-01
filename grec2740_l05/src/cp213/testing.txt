@@ -1,0 +1,67 @@
+Lab 5 Methods Tests
+
+================================================================================
+Print Example 1 - People:
+
+Snord, Cranston
+
+Sharma, Priyanka: 7384737
+
+Hakim, Abdul
+Department: History
+
+Rodrigues, Estevan
+Department: Philosophy
+
+Chin, Li-meng: 9857478
+Course: CP213
+
+Rodrigues, Estevan: 6723564
+Course: CP363
+
+McGarrity, Ivan
+Department: English
+Term: 201401
+
+----------------------------------------
+Print Example 2 - Sorted People:
+
+Chin, Li-meng: 9857478
+Course: CP213
+
+Hakim, Abdul
+Department: History
+
+McGarrity, Ivan
+Department: English
+Term: 201401
+
+Rodrigues, Estevan
+Department: Philosophy
+
+Sharma, Priyanka: 7384737
+
+Snord, Cranston
+
+
+========================================
+Task 1 - Add CAS:
+
+Chin, Li-meng: 9857478
+Course: CP213
+
+Hakim, Abdul
+Department: History
+
+McGarrity, Ivan
+Department: English
+Term: 201401
+
+Rodrigues, Estevan
+Department: Philosophy
+
+Sharma, Priyanka: 7384737
+
+Snord, Cranston
+
+
