@@ -1,0 +1,393 @@
+Assignment 2 Methods Tests
+
+List of origins:
+null
+----------------------------------------
+New Food Object:
+Name:      Lasagna 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  135 
+
+----------------------------------------
+Comparisons
+Compare Italian Lasagna to itself (expects 0): 0
+Compare Italian Lasagna to Butter Chicken (expects > 0): 1
+Compare Italian Lasagna to Szechuan Shrimp (expects < 0): -1
+Compare Italian Lasagna to Canadian Lasagna (expects > 0): 1
+Compare Italian Lasagna to English Lasagna (expects < 0): -1
+----------------------------------------
+Getters for Lasagna
+Name: Lasagna
+Origin (int): 7
+Origin (String): Italian
+Vegetarian: false
+Calories: 135
+----------------------------------------
+Read Foods from file:
+Name:      Lasagna 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  135 
+
+Name:      Butter Chicken 
+Origin:    Indian 
+Vegtarian: false 
+Calories:  490 
+
+Name:      Moo Goo Guy Pan 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  272 
+
+Name:      Vegetable Alicha 
+Origin:    Ethiopian 
+Vegtarian: true 
+Calories:  138 
+
+Name:      Spanakopita 
+Origin:    Greek 
+Vegtarian: true 
+Calories:  260 
+
+Name:      Chirashi Don 
+Origin:    Japanese 
+Vegtarian: false 
+Calories:  600 
+
+Name:      Canuck Burger 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  7500 
+
+Name:      B'ssara 
+Origin:    Moroccan 
+Vegtarian: true 
+Calories:  178 
+
+Name:      Shark Fin Soup 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  46 
+
+Name:      Chamuco 
+Origin:    Mexican 
+Vegtarian: true 
+Calories:  150 
+
+Name:      Natto 
+Origin:    Japanese 
+Vegtarian: true 
+Calories:  212 
+
+Name:      Canada Goose Chili 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  199 
+
+Name:      Diet Free-Range Gluten-free Water 
+Origin:    Canadian 
+Vegtarian: true 
+Calories:  0 
+
+Name:      Kung Pao Chicken 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  229 
+
+Name:      General Tao Chicken 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  850 
+
+Name:      Spicy Vegetable Moo Shu 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  140 
+
+Name:      BBQ Pork 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  920 
+
+Name:      Orange Chicken 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  800 
+
+Name:      Vegetables with Cashew Nuts 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  143 
+
+Name:      Lemon Chicken 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  226 
+
+Name:      Beef with Green Pepper 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  251 
+
+Name:      Sweet and Sour Pork 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  231 
+
+Name:      Szechuan Shrimp 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  516 
+
+Name:      Poutine 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  710 
+
+Name:      Teppanyaki 
+Origin:    Japanese 
+Vegtarian: false 
+Calories:  200 
+
+Name:      Greek Salad 
+Origin:    Greek 
+Vegtarian: true 
+Calories:  185 
+
+Name:      Fettuccine 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  266 
+
+Name:      Teriyaki 
+Origin:    Japanese 
+Vegtarian: false 
+Calories:  233 
+
+Name:      Shortbread  
+Origin:    Scottish 
+Vegtarian: true 
+Calories:  502 
+
+Name:      Arepas 
+Origin:    Columbian 
+Vegtarian: true 
+Calories:  219 
+
+Name:      Bandeja Paisa 
+Origin:    Columbian 
+Vegtarian: false 
+Calories:  1000 
+
+Name:      Fricot 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  360 
+
+Name:      Chip Butty 
+Origin:    English 
+Vegtarian: true 
+Calories:  956 
+
+Name:      Grilled Salmon 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  511 
+
+Name:      Ravioli 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  246 
+
+Name:      Crepe 
+Origin:    Italian 
+Vegtarian: true 
+Calories:  186 
+
+Name:      Fried Rice 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  425 
+
+Name:      Pepperoni Pizza 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  713 
+
+Name:      Chicken Kabob 
+Origin:    Indian 
+Vegtarian: false 
+Calories:  167 
+
+Name:      Panzerotti 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  770 
+
+Name:      Spring Rolls 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  200 
+
+Name:      Chicken Chow Mein 
+Origin:    Chinese 
+Vegtarian: false 
+Calories:  178 
+
+Name:      Kefta tagine 
+Origin:    Moroccan 
+Vegtarian: false 
+Calories:  2112 
+
+----------------------------------------
+readFood from string
+Name:      lasagna 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  135 
+
+----------------------------------------
+Average Calories of All Foods
+572
+----------------------------------------
+Average Calories of Italian Foods
+386
+----------------------------------------
+List of Vegetarian Foods
+Name:      Vegetable Alicha 
+Origin:    Ethiopian 
+Vegtarian: true 
+Calories:  138 
+
+Name:      Spanakopita 
+Origin:    Greek 
+Vegtarian: true 
+Calories:  260 
+
+Name:      B'ssara 
+Origin:    Moroccan 
+Vegtarian: true 
+Calories:  178 
+
+Name:      Chamuco 
+Origin:    Mexican 
+Vegtarian: true 
+Calories:  150 
+
+Name:      Natto 
+Origin:    Japanese 
+Vegtarian: true 
+Calories:  212 
+
+Name:      Diet Free-Range Gluten-free Water 
+Origin:    Canadian 
+Vegtarian: true 
+Calories:  0 
+
+Name:      Spicy Vegetable Moo Shu 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  140 
+
+Name:      Vegetables with Cashew Nuts 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  143 
+
+Name:      Greek Salad 
+Origin:    Greek 
+Vegtarian: true 
+Calories:  185 
+
+Name:      Shortbread  
+Origin:    Scottish 
+Vegtarian: true 
+Calories:  502 
+
+Name:      Arepas 
+Origin:    Columbian 
+Vegtarian: true 
+Calories:  219 
+
+Name:      Chip Butty 
+Origin:    English 
+Vegtarian: true 
+Calories:  956 
+
+Name:      Crepe 
+Origin:    Italian 
+Vegtarian: true 
+Calories:  186 
+
+Name:      Spring Rolls 
+Origin:    Chinese 
+Vegtarian: true 
+Calories:  200 
+
+----------------------------------------
+List of Italian Foods
+Name:      Lasagna 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  135 
+
+Name:      Fettuccine 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  266 
+
+Name:      Ravioli 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  246 
+
+Name:      Crepe 
+Origin:    Italian 
+Vegtarian: true 
+Calories:  186 
+
+Name:      Pepperoni Pizza 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  713 
+
+Name:      Panzerotti 
+Origin:    Italian 
+Vegtarian: false 
+Calories:  770 
+
+----------------------------------------
+Searching
+Search for Vegetarian Italian foods under 300 calories
+Search: 7, 300, true
+----------------------------------------
+Name:      Crepe 
+Origin:    Italian 
+Vegtarian: true 
+Calories:  186 
+
+----------------------------------------
+Get Food from keyboard:
+Name: Ayden
+Origins
+Canadian
+Chinese
+Indian
+Ethiopian
+Mexican
+Greek
+Japanese
+Italian
+American
+Scottish
+New_Zealand
+English
+Origin Number: 0
+Vegetarian (Y/N): N
+Calories: 800
+
+Name:      Ayden 
+Origin:    Canadian 
+Vegtarian: false 
+Calories:  800 
