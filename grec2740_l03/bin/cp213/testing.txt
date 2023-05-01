@@ -1,0 +1,25 @@
+Name:      Brown, David
+ID:        999999
+Birthdate: 1962-10-25
+----------------------------------------
+Test Getters
+1962-10-25
+Brown
+David
+999999
+----------------------------------------
+Test Setters
+Updated Student:
+Name:      Brown, David
+ID:        999999
+Birthdate: 1962-10-25
+----------------------------------------
+Test compareTo
+Name:      Brown, David
+ID:        999999
+Birthdate: 1962-10-25
+----------------------------------------
+Name:      Brown, David
+ID:        999999
+Birthdate: 1962-10-26
+0
