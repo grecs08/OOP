@@ -1,0 +1,25 @@
+Lab 6 Methods Tests
+
+================================================================================
+Test scannerTest
+
+Enter an integer ('Quit to stop'): 
+5
+Enter an integer ('Quit to stop'): 
+Quit
+Total: 5
+
+Test stringPrinter
+*****
+
+getMessage:
+Please Enter a Positive Number!
+
+toString:
+java.lang.Exception: Please Enter a Positive Number!
+
+printStackTrace:
+java.lang.Exception: Please Enter a Positive Number!
+	at cp213.Main.stringPrinter(Main.java:85)
+	at cp213.Main.main(Main.java:26)
+----------------------------------------
